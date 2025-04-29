@@ -1,8 +1,8 @@
 # 🎓 LMS + Coding Platform (Hackathon Project)
 
 
-#Live(Students) = https://campusbridge-student.vercel.app/
-#Live(Admin) = https://xhorizon-frontend.vercel.app/
+# Live(Students) = https://campusbridge-student.vercel.app/
+# Live(Admin) = https://xhorizon-frontend.vercel.app/
 
 A comprehensive Learning Management System (LMS) integrated with a coding platform designed for students, faculty, and administrators. This platform provides seamless access to courses, coding problems, assignments, and AI-driven tools for both learning and career development.
 
